@@ -1,0 +1,14 @@
+.fromInputNumber {
+    border: 1px solid black;
+    width: max-content;
+    padding: 15px;
+    border-spacing: 7px 15px;
+}
+
+.fromInputNumber .containerInput {
+    margin: 5px 0;
+}
+
+.fromInputNumber .containerInput .thLabel {
+    text-align: right;
+}
